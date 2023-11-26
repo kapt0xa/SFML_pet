@@ -11,3 +11,5 @@ press 3 - set 3-rd point
 press 4 - set 4-th point
 
 click somewhere - set the position of choosen point
+
+sorry, no cmake yet
