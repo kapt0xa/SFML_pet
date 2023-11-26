@@ -1,7 +1,7 @@
 # SFML_pet
 my pet project with SFML
 
-i develop it with SFML 2.5.1
+i develop it with SFML 2.5.1 (https://www.sfml-dev.org/download/sfml/2.5.1/ Visual C++ 15 (2017) - 64-bit)
 
 current version is rendering spline.
 
