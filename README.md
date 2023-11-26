@@ -13,3 +13,6 @@ press 4 - set 4-th point
 click somewhere - set the position of choosen point
 
 sorry, no cmake yet
+
+the demonstration of programm:
+https://youtu.be/OgNFAW7SIH0
